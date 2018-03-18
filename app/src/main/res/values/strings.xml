@@ -1,0 +1,68 @@
+<!--
+  Copyright 2016 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Material Me!</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu orci ultricies, fermentum nisl in, cursus risus. Sed arcu ex, maximus sed metus eget, hendrerit bibendum tellus. Donec a lobortis magna. Ut sit amet eleifend lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer lobortis, libero vulputate dignissim facilisis, lorem diam pharetra dolor, faucibus scelerisque turpis mi et tortor. Nunc varius pretium urna at congue. In non ligula elit. Curabitur vitae mi arcu. Aliquam tempor nec ipsum ut consectetur. Etiam cursus interdum ultrices. Morbi auctor tincidunt ipsum sed imperdiet. Suspendisse vitae ipsum ac mauris consequat ullamcorper ut non urna. Etiam et tortor congue, blandit purus sit amet, mattis quam.
+
+Integer vulputate, ex vitae dignissim consectetur, enim neque efficitur est, eu mattis metus nisl in eros. Nulla suscipit turpis ut elit faucibus, vel varius est finibus. Praesent vel accumsan ipsum, vitae ullamcorper elit. Quisque sit amet nisi eu sapien ultrices vulputate. Vivamus ultricies mi nec vestibulum convallis. Nulla dignissim risus diam, ut ullamcorper nisi fermentum et. Curabitur a metus euismod, bibendum ipsum non, condimentum orci. Vivamus finibus metus eget consectetur accumsan. Donec sed felis diam. Vestibulum sit amet vestibulum orci, at hendrerit leo. Duis pellentesque sapien felis. Cras malesuada justo sed lobortis dapibus. Pellentesque vitae dignissim dolor.
+
+Donec dignissim facilisis tellus ac suscipit. Integer id est tincidunt libero dignissim consectetur tristique sed mauris. Maecenas fringilla convallis nulla, vitae auctor mi porta vel. Mauris ac sodales velit. Etiam eu pellentesque magna. Cras blandit interdum dolor, at aliquam arcu volutpat eget. Morbi quis dolor consequat libero sagittis viverra quis in ligula. Sed aliquam eleifend nulla et dignissim. Etiam ac mollis magna, quis dictum mauris.</string>
+
+    <string-array name="sports_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+        <item>Running</item>
+        <item>Soccer</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Here is some Baseball news!</item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+        <item>Here is some Golf news!</item>
+        <item>Here is some Running news!</item>
+        <item>Here is some Soccer news!</item>
+        <item>Here is some Swimming news!</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
+    </string-array>
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+</resources>
